@@ -25,3 +25,8 @@ Docker Compose allows you to build and run the application in one command.
 From the project root directory, run:
 
 docker-compose up --build
+
+## Visit the app on a web server
+
+I deployed this app on Vercel. You can visit this app by:
+https://patent-check-app.vercel.app/
